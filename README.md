@@ -21,8 +21,8 @@ Voyage is an AI-powered web application that helps users create personalized tra
 ## Setup Instructions
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Anu0517/Voyace.git
-   cd Voyace
+   git clone https://github.com/Anu0517/Voyage.git
+   cd Voyage
    ```
 2. **Install Dependencies**:
    ```bash
